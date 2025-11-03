@@ -1,0 +1,5 @@
+imageio>=2.31
+numpy>=1.23
+Pillow>=9.4
+torch>=1.12
+tqdm>=4.65
